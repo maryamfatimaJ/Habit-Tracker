@@ -48,5 +48,4 @@ A clean and motivating Habit Tracker built to help users stay consistent with th
 
 ---
 
-## Project Structure
 
